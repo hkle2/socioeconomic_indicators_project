@@ -1,4 +1,4 @@
-# NSocioeconomic indicators project
+# Socioeconomic indicators project
 ### Socioeconomic indicator dataset clustering project
 - Code
 - Data
